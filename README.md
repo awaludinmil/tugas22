@@ -1,4 +1,4 @@
-# 📊 Modern Dashboard App
+# 📊 Modern Dashboard App - tugas22
 
 A beautiful, responsive dashboard application built with Next.js, React, and Tailwind CSS. This project features a modern interface with analytics, settings, and comprehensive data visualization.
 
@@ -47,8 +47,8 @@ A beautiful, responsive dashboard application built with Next.js, React, and Tai
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dashboard-app.git
-   cd dashboard-app
+   git clone https://github.com/awaludinmil/tugas22.git
+   cd tugas22
    ```
 
 2. **Install dependencies**
@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Awaludin**
 - Email: awaludin@cobacoba.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@awaludinmil](https://github.com/awaludinmil)
 
 ## 🙏 Acknowledgments
 
